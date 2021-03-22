@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/job-interview/static/css/main.e4b94995.chunk.css",
-    "main.js": "/job-interview/static/js/main.5239ab5e.chunk.js",
-    "main.js.map": "/job-interview/static/js/main.5239ab5e.chunk.js.map",
+    "main.css": "/job-interview/static/css/main.d3e103e8.chunk.css",
+    "main.js": "/job-interview/static/js/main.4c387d3c.chunk.js",
+    "main.js.map": "/job-interview/static/js/main.4c387d3c.chunk.js.map",
     "runtime-main.js": "/job-interview/static/js/runtime-main.6c7393e2.js",
     "runtime-main.js.map": "/job-interview/static/js/runtime-main.6c7393e2.js.map",
-    "static/js/2.0afa2c81.chunk.js": "/job-interview/static/js/2.0afa2c81.chunk.js",
-    "static/js/2.0afa2c81.chunk.js.map": "/job-interview/static/js/2.0afa2c81.chunk.js.map",
+    "static/js/2.6a7a37ca.chunk.js": "/job-interview/static/js/2.6a7a37ca.chunk.js",
+    "static/js/2.6a7a37ca.chunk.js.map": "/job-interview/static/js/2.6a7a37ca.chunk.js.map",
     "index.html": "/job-interview/index.html",
-    "precache-manifest.25e23a088d5b7aebde15820379e428a2.js": "/job-interview/precache-manifest.25e23a088d5b7aebde15820379e428a2.js",
+    "precache-manifest.7520dcb0c7610b5823064aa304b1c946.js": "/job-interview/precache-manifest.7520dcb0c7610b5823064aa304b1c946.js",
     "service-worker.js": "/job-interview/service-worker.js",
-    "static/css/main.e4b94995.chunk.css.map": "/job-interview/static/css/main.e4b94995.chunk.css.map",
-    "static/js/2.0afa2c81.chunk.js.LICENSE.txt": "/job-interview/static/js/2.0afa2c81.chunk.js.LICENSE.txt",
-    "static/media/global.scss": "/job-interview/static/media/Montserrat-Regular.ee653992.ttf"
+    "static/css/main.d3e103e8.chunk.css.map": "/job-interview/static/css/main.d3e103e8.chunk.css.map",
+    "static/js/2.6a7a37ca.chunk.js.LICENSE.txt": "/job-interview/static/js/2.6a7a37ca.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/job-interview/static/media/Spartan-SemiBold.685afe22.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.6c7393e2.js",
-    "static/js/2.0afa2c81.chunk.js",
-    "static/css/main.e4b94995.chunk.css",
-    "static/js/main.5239ab5e.chunk.js"
+    "static/js/2.6a7a37ca.chunk.js",
+    "static/css/main.d3e103e8.chunk.css",
+    "static/js/main.4c387d3c.chunk.js"
   ]
 }
