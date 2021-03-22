@@ -1,0 +1,44 @@
+.center-lines {
+  margin-bottom: 167px;
+  height: 1230px;
+  .line {
+    align-items: flex-end;
+    align-self: flex-end;
+    margin-top: 167px;
+    .center-img {
+      height: 720px;
+      width: 540px;
+    }
+    .ci1 {
+      position: absolute;
+      left: 165px;
+      top: 750px;
+      z-index: 2;
+    }
+    .ci2 {
+      position: absolute;
+      width: 540px;
+      height: 720px;
+      left: 735px;
+      top: 1591px;
+    }
+    .center-card {
+      color: #242b37;
+      width: 445px;
+      h3 {
+        width: 13ch;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 56px;
+        letter-spacing: -0.5px;
+      }
+    }
+    .cc1 {
+      justify-items: end;
+    }
+  }
+  .cc2 {
+    align-self: flex-start !important;
+  }
+}

@@ -1,15 +1,14 @@
 import React, { Component } from "react"
 
 import { Jumbo } from "../cmps/Jumbo"
+import { Center } from "../cmps/Center"
 
 export class Home extends Component {
   render() {
     return (
-      <section className="main-container">
+      <section>
         <Jumbo />
-        <div>
-          HOME
-        </div>
+        <Center />
       </section>
     );
   }

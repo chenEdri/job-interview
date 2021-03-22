@@ -88,6 +88,9 @@
   &.align-start{
     align-self: flex-start;
   }
+  &.rr{
+    flex-direction: row-reverse;
+  }
 }
 
 //margin:

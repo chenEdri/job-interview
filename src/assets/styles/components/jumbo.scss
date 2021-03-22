@@ -1,6 +1,41 @@
-.jumbo{
-    .slogan{
-        color:blue;
-
+.jumbo-container {
+  position: relative;
+//   overflow: hidden;
+  background-color: #17192b;
+  min-height: 663px;
+  padding-top: 153px;
+  .slogan {
+    z-index: 2;
+    margin-bottom: 200px;
+    width: 523px;
+    font-family: SpartansR;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 72px;
+    letter-spacing: -0.8px;
+    color: #ffffff;
+    p {
+      width: 30ch;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      line-height: 30px;
+      letter-spacing: -0.225px;
     }
+    .jumbo-btn {
+      background: #ffffff;
+      border: 1px solid #ffffff;
+      align-self: end;
+    }
+  }
+  .jumbo-img {
+    width: 80%;
+    height: 828px;
+    position: absolute;
+    left: 25%;
+    top: -17%;
+    bottom: 0%;
+    z-index: 1;
+  }
 }

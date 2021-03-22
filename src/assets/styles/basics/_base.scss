@@ -22,14 +22,18 @@ body {
     }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: LavvicB;
+    font-family: SpartansB;
     margin: 0 0 0.6em;
-    color: #000000;
+    // color: #000000;
     line-height: 1;
 }
 
 h1 {
     font-size: rem(68px);
+}
+
+h3{
+    font-size: rem(40px);
 }
 
 img {
